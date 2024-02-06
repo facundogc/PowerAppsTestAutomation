@@ -24,7 +24,7 @@ namespace Microsoft.PowerApps.TestAutomation.Tests
         private static string _resultsDirectory = "";
         private static string _driversPath = "";
         private static string _usePrivateMode;
-        private static string _testAutomationURLFilePath = "./";
+        private static string _testAutomationURLFilePath = "";
         private static int _globalTestCount = 0;
         private static int _globalPassCount = 0;
         private static int _globalFailCount = 0;
